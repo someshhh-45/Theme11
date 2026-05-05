@@ -1,0 +1,10 @@
+flask
+flask-cors
+groq
+google-generativeai
+pymupdf
+pytesseract
+Pillow
+python-dotenv
+jsonschema
+requests
